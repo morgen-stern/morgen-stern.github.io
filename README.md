@@ -1,7 +1,7 @@
-# Tejas Hadkar
-M.Sc. Embedded Systems
-Technische Universitat Chemnitz
-Germany
+# Tejas Hadkar  
+M.Sc. Embedded Systems  
+Technische Universitat Chemnitz  
+Germany  
 
 ## Welcome to GitHub Pages
 
